@@ -1,6 +1,6 @@
 
 // move to .ENV
-const URL_DB = 'mongodb://localhost:27017/domina'
+const URL_DB = 'mongodb://db:27017/domina'
 /**
  * @type {import('fastify-plugin').FastifyPlugin}
  */
