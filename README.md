@@ -26,7 +26,7 @@ Instrucciones de instalación y uso:
 3. Navega hasta el directorio del proyecto.
 4. Ejecuta el comando "docker-compose build --no-cache" para construir los contenedores sin utilizar la caché.
 5. A continuación, ejecuta el comando "docker-compose up" para ejecutar los contenedores.
-6. Accede al frontend en tu navegador a través de http://localhost.
+6. Accede al frontend en tu navegador a través de http://localhost:3003/task.
 7. Comienza a utilizar la aplicación para gestionar tareas y usuarios.
 
 ¡Contribuciones y mejoras son bienvenidas! Si tienes alguna sugerencia o problema, por favor, abre un issue en este repositorio.
