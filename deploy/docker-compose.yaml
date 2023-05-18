@@ -18,7 +18,7 @@ services:
     environment:
       - MONGO_URI=mongodb://db:27017/dominio
     ports:
-      - 3001:3000
+      - 3001:3001
     networks:
       - app-network
   
@@ -29,7 +29,7 @@ services:
     environment:
       - MONGO_URI=mongodb://db:27017/dominio
     ports:
-      - 3002:3000
+      - 3002:3001
     networks:
       - app-network
 
