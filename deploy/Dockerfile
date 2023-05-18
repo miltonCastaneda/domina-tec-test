@@ -1,11 +1,16 @@
 FROM node:alpine
 
-WORKDIR /app
 
-RUN apk add --no-cache git && \
-    git clone https://github.com/miltonCastaneda/domina-tec-test.git app && \
-    cd app && \
-    npm install
+
+RUN apk add --no-cache git
+RUN git clone https://github.com/miltonCastaneda/domina-tec-test.git app 
+RUN cd app/back/
+
+WORKDIR /app/back/
+
+RUN npm install
+
+
 
 EXPOSE 3000
 
