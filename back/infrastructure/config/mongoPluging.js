@@ -1,6 +1,6 @@
 
-// move to .ENV
-const URL_DB = 'mongodb://db:27017/domina'
+//TODO USE MONGO_URI in ENV
+const URL_DB = 'mongodb://db:27017/dominio'
 /**
  * @type {import('fastify-plugin').FastifyPlugin}
  */

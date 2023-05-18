@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-rtk-crud/static/css/main.1e479267.css",
-    "main.js": "/react-rtk-crud/static/js/main.ba29d091.js",
-    "static/js/787.88f96de8.chunk.js": "/react-rtk-crud/static/js/787.88f96de8.chunk.js",
-    "index.html": "/react-rtk-crud/index.html",
-    "main.1e479267.css.map": "/react-rtk-crud/static/css/main.1e479267.css.map",
-    "main.ba29d091.js.map": "/react-rtk-crud/static/js/main.ba29d091.js.map",
-    "787.88f96de8.chunk.js.map": "/react-rtk-crud/static/js/787.88f96de8.chunk.js.map"
+    "main.css": "/static/css/main.1e479267.css",
+    "main.js": "/static/js/main.181c4ecb.js",
+    "static/js/787.88f96de8.chunk.js": "/static/js/787.88f96de8.chunk.js",
+    "index.html": "/index.html",
+    "main.1e479267.css.map": "/static/css/main.1e479267.css.map",
+    "main.181c4ecb.js.map": "/static/js/main.181c4ecb.js.map",
+    "787.88f96de8.chunk.js.map": "/static/js/787.88f96de8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e479267.css",
-    "static/js/main.ba29d091.js"
+    "static/js/main.181c4ecb.js"
   ]
 }
