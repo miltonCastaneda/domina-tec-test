@@ -23,7 +23,7 @@ Tecnologías utilizadas:
 Instrucciones de instalación y uso:
 1. Clona este repositorio en tu máquina local.
 2. Asegúrate de tener Docker y Docker Compose instalados en tu sistema.
-3. Navega hasta el directorio del proyecto.
+3. Navega hasta el directorio del proyecto ./deploy.
 4. Ejecuta el comando "docker-compose build --no-cache" para construir los contenedores sin utilizar la caché.
 5. A continuación, ejecuta el comando "docker-compose up" para ejecutar los contenedores.
 6. Accede al frontend en tu navegador a través de http://localhost:3003/task.
