@@ -1,6 +1,6 @@
 
 
-const dbConnector = require('./infrastructure/lib/mongoPluging')
+const dbConnector = require('./infrastructure/config/mongoPluging')
 const routes = require('./routes/index')
 
 const environment = 'test'
